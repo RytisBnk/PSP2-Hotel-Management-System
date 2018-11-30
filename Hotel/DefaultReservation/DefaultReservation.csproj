@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A2DD8F33-44E4-4788-82C6-7E76710A6382}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>DefaultReservation</RootNamespace>
+    <AssemblyName>DefaultReservation</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DefaultReservationFacade.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ReservationFacadeApi\ReservationFacadeApi.csproj">
+      <Project>{C47423E0-CF15-457F-8699-686C36E25C6F}</Project>
+      <Name>ReservationFacadeApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmployeeApi\ReservationApi\ReservationApi.csproj">
+      <Project>{1B47246D-D37B-44B4-B592-7964DBBAF158}</Project>
+      <Name>ReservationApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReservationServiceApi\ReservationServiceApi.csproj">
+      <Project>{09C39BD4-465D-490B-B687-8AF96A03AF46}</Project>
+      <Name>ReservationServiceApi</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

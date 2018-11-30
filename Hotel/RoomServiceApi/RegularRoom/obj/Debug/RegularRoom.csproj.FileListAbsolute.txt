@@ -1,0 +1,13 @@
+/Users/rytis/Projects/Hotel/RoomServiceApi/RegularRoom/bin/Debug/RegularRoom.dll
+/Users/rytis/Projects/Hotel/RoomServiceApi/RegularRoom/bin/Debug/RegularRoom.pdb
+/Users/rytis/Projects/Hotel/RoomServiceApi/RegularRoom/bin/Debug/RoomApi.dll
+/Users/rytis/Projects/Hotel/RoomServiceApi/RegularRoom/bin/Debug/RoomRepositoryApi.dll
+/Users/rytis/Projects/Hotel/RoomServiceApi/RegularRoom/bin/Debug/RoomServiceApi.dll
+/Users/rytis/Projects/Hotel/RoomServiceApi/RegularRoom/bin/Debug/RoomServiceApi.pdb
+/Users/rytis/Projects/Hotel/RoomServiceApi/RegularRoom/bin/Debug/RoomApi.pdb
+/Users/rytis/Projects/Hotel/RoomServiceApi/RegularRoom/bin/Debug/RoomRepositoryApi.pdb
+/Users/rytis/Projects/Hotel/RoomServiceApi/RegularRoom/obj/Debug/RegularRoom.csprojAssemblyReference.cache
+/Users/rytis/Projects/Hotel/RoomServiceApi/RegularRoom/obj/Debug/RegularRoom.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/RoomServiceApi/RegularRoom/obj/Debug/RegularRoom.csproj.CopyComplete
+/Users/rytis/Projects/Hotel/RoomServiceApi/RegularRoom/obj/Debug/RegularRoom.dll
+/Users/rytis/Projects/Hotel/RoomServiceApi/RegularRoom/obj/Debug/RegularRoom.pdb

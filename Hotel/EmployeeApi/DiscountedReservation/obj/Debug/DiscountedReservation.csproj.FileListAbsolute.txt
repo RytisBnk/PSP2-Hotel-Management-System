@@ -1,0 +1,9 @@
+/Users/rytis/Projects/Hotel/EmployeeApi/DiscountedReservation/bin/Debug/DiscountedReservation.dll
+/Users/rytis/Projects/Hotel/EmployeeApi/DiscountedReservation/bin/Debug/DiscountedReservation.pdb
+/Users/rytis/Projects/Hotel/EmployeeApi/DiscountedReservation/bin/Debug/ReservationApi.dll
+/Users/rytis/Projects/Hotel/EmployeeApi/DiscountedReservation/bin/Debug/ReservationApi.pdb
+/Users/rytis/Projects/Hotel/EmployeeApi/DiscountedReservation/obj/Debug/DiscountedReservation.csprojAssemblyReference.cache
+/Users/rytis/Projects/Hotel/EmployeeApi/DiscountedReservation/obj/Debug/DiscountedReservation.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/EmployeeApi/DiscountedReservation/obj/Debug/DiscountedReservation.csproj.CopyComplete
+/Users/rytis/Projects/Hotel/EmployeeApi/DiscountedReservation/obj/Debug/DiscountedReservation.dll
+/Users/rytis/Projects/Hotel/EmployeeApi/DiscountedReservation/obj/Debug/DiscountedReservation.pdb

@@ -1,0 +1,11 @@
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryRoom/bin/Debug/InMemoryRoom.dll
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryRoom/bin/Debug/InMemoryRoom.pdb
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryRoom/bin/Debug/RoomApi.dll
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryRoom/bin/Debug/RoomRepositoryApi.dll
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryRoom/bin/Debug/RoomApi.pdb
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryRoom/bin/Debug/RoomRepositoryApi.pdb
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryRoom/obj/Debug/InMemoryRoom.csprojAssemblyReference.cache
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryRoom/obj/Debug/InMemoryRoom.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryRoom/obj/Debug/InMemoryRoom.csproj.CopyComplete
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryRoom/obj/Debug/InMemoryRoom.dll
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryRoom/obj/Debug/InMemoryRoom.pdb

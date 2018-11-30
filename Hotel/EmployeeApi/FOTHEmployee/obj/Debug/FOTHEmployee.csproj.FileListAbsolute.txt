@@ -1,0 +1,9 @@
+/Users/rytis/Projects/Hotel/EmployeeApi/FOTHEmployee/bin/Debug/FOTHEmployee.dll
+/Users/rytis/Projects/Hotel/EmployeeApi/FOTHEmployee/bin/Debug/FOTHEmployee.pdb
+/Users/rytis/Projects/Hotel/EmployeeApi/FOTHEmployee/bin/Debug/EmployeeApi.dll
+/Users/rytis/Projects/Hotel/EmployeeApi/FOTHEmployee/bin/Debug/EmployeeApi.pdb
+/Users/rytis/Projects/Hotel/EmployeeApi/FOTHEmployee/obj/Debug/FOTHEmployee.csprojAssemblyReference.cache
+/Users/rytis/Projects/Hotel/EmployeeApi/FOTHEmployee/obj/Debug/FOTHEmployee.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/EmployeeApi/FOTHEmployee/obj/Debug/FOTHEmployee.csproj.CopyComplete
+/Users/rytis/Projects/Hotel/EmployeeApi/FOTHEmployee/obj/Debug/FOTHEmployee.dll
+/Users/rytis/Projects/Hotel/EmployeeApi/FOTHEmployee/obj/Debug/FOTHEmployee.pdb

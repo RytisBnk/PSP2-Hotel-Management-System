@@ -1,0 +1,9 @@
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/bin/Debug/EmployeeRepositoryApi.dll
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/bin/Debug/EmployeeRepositoryApi.pdb
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/bin/Debug/EmployeeApi.dll
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/bin/Debug/EmployeeApi.pdb
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/obj/Debug/EmployeeRepositoryApi.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/obj/Debug/EmployeeRepositoryApi.csproj.CopyComplete
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/obj/Debug/EmployeeRepositoryApi.dll
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/obj/Debug/EmployeeRepositoryApi.pdb
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/obj/Debug/EmployeeRepositoryApi.csprojAssemblyReference.cache

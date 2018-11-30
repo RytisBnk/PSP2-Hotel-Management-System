@@ -1,0 +1,15 @@
+/Users/rytis/Projects/Hotel/InternFOTH/bin/Debug/InternFOTH.dll
+/Users/rytis/Projects/Hotel/InternFOTH/bin/Debug/InternFOTH.pdb
+/Users/rytis/Projects/Hotel/InternFOTH/bin/Debug/EmployeeApi.dll
+/Users/rytis/Projects/Hotel/InternFOTH/bin/Debug/EmployeeRepositoryApi.dll
+/Users/rytis/Projects/Hotel/InternFOTH/bin/Debug/FOTHEmployeeServiceApi.dll
+/Users/rytis/Projects/Hotel/InternFOTH/bin/Debug/FOTHEmployeeServiceApi.pdb
+/Users/rytis/Projects/Hotel/InternFOTH/bin/Debug/EmployeeApi.pdb
+/Users/rytis/Projects/Hotel/InternFOTH/bin/Debug/EmployeeRepositoryApi.pdb
+/Users/rytis/Projects/Hotel/InternFOTH/obj/Debug/InternFOTH.csprojAssemblyReference.cache
+/Users/rytis/Projects/Hotel/InternFOTH/obj/Debug/InternFOTH.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/InternFOTH/obj/Debug/InternFOTH.csproj.CopyComplete
+/Users/rytis/Projects/Hotel/InternFOTH/obj/Debug/InternFOTH.dll
+/Users/rytis/Projects/Hotel/InternFOTH/obj/Debug/InternFOTH.pdb
+/Users/rytis/Projects/Hotel/InternFOTH/bin/Debug/Autofac.dll
+/Users/rytis/Projects/Hotel/InternFOTH/bin/Debug/Autofac.xml

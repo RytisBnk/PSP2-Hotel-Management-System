@@ -1,0 +1,15 @@
+/Users/rytis/Projects/Hotel/RegularManagementEmployee/bin/Debug/RegularManagementEmployee.dll
+/Users/rytis/Projects/Hotel/RegularManagementEmployee/bin/Debug/RegularManagementEmployee.pdb
+/Users/rytis/Projects/Hotel/RegularManagementEmployee/bin/Debug/EmployeeApi.dll
+/Users/rytis/Projects/Hotel/RegularManagementEmployee/bin/Debug/EmployeeRepositoryApi.dll
+/Users/rytis/Projects/Hotel/RegularManagementEmployee/bin/Debug/ManagementEmployeeServiceApi.dll
+/Users/rytis/Projects/Hotel/RegularManagementEmployee/bin/Debug/ManagementEmployeeServiceApi.pdb
+/Users/rytis/Projects/Hotel/RegularManagementEmployee/bin/Debug/EmployeeApi.pdb
+/Users/rytis/Projects/Hotel/RegularManagementEmployee/bin/Debug/EmployeeRepositoryApi.pdb
+/Users/rytis/Projects/Hotel/RegularManagementEmployee/obj/Debug/RegularManagementEmployee.csprojAssemblyReference.cache
+/Users/rytis/Projects/Hotel/RegularManagementEmployee/obj/Debug/RegularManagementEmployee.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/RegularManagementEmployee/obj/Debug/RegularManagementEmployee.csproj.CopyComplete
+/Users/rytis/Projects/Hotel/RegularManagementEmployee/obj/Debug/RegularManagementEmployee.dll
+/Users/rytis/Projects/Hotel/RegularManagementEmployee/obj/Debug/RegularManagementEmployee.pdb
+/Users/rytis/Projects/Hotel/RegularManagementEmployee/bin/Debug/Autofac.dll
+/Users/rytis/Projects/Hotel/RegularManagementEmployee/bin/Debug/Autofac.xml

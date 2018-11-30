@@ -1,0 +1,6 @@
+/Users/rytis/Projects/Hotel/EmployeeApi/bin/Debug/EmployeeApi.dll
+/Users/rytis/Projects/Hotel/EmployeeApi/bin/Debug/EmployeeApi.pdb
+/Users/rytis/Projects/Hotel/EmployeeApi/obj/Debug/EmployeeApi.csprojAssemblyReference.cache
+/Users/rytis/Projects/Hotel/EmployeeApi/obj/Debug/EmployeeApi.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/EmployeeApi/obj/Debug/EmployeeApi.dll
+/Users/rytis/Projects/Hotel/EmployeeApi/obj/Debug/EmployeeApi.pdb

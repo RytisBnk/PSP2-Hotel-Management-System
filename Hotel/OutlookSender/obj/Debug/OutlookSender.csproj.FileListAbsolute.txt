@@ -1,0 +1,9 @@
+/Users/rytis/Projects/Hotel/OutlookSender/bin/Debug/OutlookSender.dll
+/Users/rytis/Projects/Hotel/OutlookSender/bin/Debug/OutlookSender.pdb
+/Users/rytis/Projects/Hotel/OutlookSender/bin/Debug/MailApi.dll
+/Users/rytis/Projects/Hotel/OutlookSender/bin/Debug/MailApi.pdb
+/Users/rytis/Projects/Hotel/OutlookSender/obj/Debug/OutlookSender.csprojAssemblyReference.cache
+/Users/rytis/Projects/Hotel/OutlookSender/obj/Debug/OutlookSender.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/OutlookSender/obj/Debug/OutlookSender.csproj.CopyComplete
+/Users/rytis/Projects/Hotel/OutlookSender/obj/Debug/OutlookSender.dll
+/Users/rytis/Projects/Hotel/OutlookSender/obj/Debug/OutlookSender.pdb

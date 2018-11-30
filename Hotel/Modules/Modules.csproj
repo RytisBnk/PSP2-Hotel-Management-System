@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{78CE1FAF-B2CB-482E-8C92-A12EE846DE2E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Modules</RootNamespace>
+    <AssemblyName>Modules</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="Autofac">
+      <HintPath>..\packages\Autofac.4.8.1\lib\net45\Autofac.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RepositoryModule.cs" />
+    <Compile Include="EmployeeModule.cs" />
+    <Compile Include="RoomModule.cs" />
+    <Compile Include="ReservationModule.cs" />
+    <Compile Include="RoomServiceModule.cs" />
+    <Compile Include="ReservationServiceModule.cs" />
+    <Compile Include="RoomFacadeModule.cs" />
+    <Compile Include="RegularFOTHServiceModule.cs" />
+    <Compile Include="InternFOTHServiceModule.cs" />
+    <Compile Include="DefaultReservationFacadeModule.cs" />
+    <Compile Include="AdditionallyTaxedReservationFacadeModule.cs" />
+    <Compile Include="DefaultEmployeeFacadeModule.cs" />
+    <Compile Include="ConsoleUIModule.cs" />
+    <Compile Include="DefaultManagementServiceModule.cs" />
+    <Compile Include="GmailMailModule.cs" />
+    <Compile Include="OutlookMailModule.cs" />
+    <Compile Include="Bootstrapper.cs" />
+    <Compile Include="DiscountedReservationModule.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AdditionallyTaxedReservation\AdditionallyTaxedReservation.csproj">
+      <Project>{B5989920-7CBB-4691-A158-CC4FBBBA737E}</Project>
+      <Name>AdditionallyTaxedReservation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DefaultEmployee\DefaultEmployee.csproj">
+      <Project>{42DE07B7-6EF7-4FDD-AB1E-67B57E94759F}</Project>
+      <Name>DefaultEmployee</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DefaultReservation\DefaultReservation.csproj">
+      <Project>{A2DD8F33-44E4-4788-82C6-7E76710A6382}</Project>
+      <Name>DefaultReservation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DefaultRoom\DefaultRoom.csproj">
+      <Project>{5E0E2C1E-6799-48DB-8F40-625F616607C3}</Project>
+      <Name>DefaultRoom</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmployeeApi\DiscountedReservation\DiscountedReservation.csproj">
+      <Project>{D54CA3D4-BA52-4520-8CF7-EFBB287CE090}</Project>
+      <Name>DiscountedReservation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmployeeApi\EmployeeApi.csproj">
+      <Project>{19D309CD-D1A2-48B3-99FE-A48DDB6ACCC7}</Project>
+      <Name>EmployeeApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmployeeFacadeApi\EmployeeFacadeApi.csproj">
+      <Project>{33CB866A-8756-463C-8B5F-9D1CB5C63D85}</Project>
+      <Name>EmployeeFacadeApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmployeeRepositoryApi\EmployeeRepositoryApi.csproj">
+      <Project>{CC272475-551A-4057-A836-0386BB8282D0}</Project>
+      <Name>EmployeeRepositoryApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmployeeApi\FOTHEmployee\FOTHEmployee.csproj">
+      <Project>{A16D68CA-A39A-40DB-B171-62D869A12FFD}</Project>
+      <Name>FOTHEmployee</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FOTHEmployeeServiceApi\FOTHEmployeeServiceApi.csproj">
+      <Project>{262226FA-AA24-47CD-86EC-4C4169D07412}</Project>
+      <Name>FOTHEmployeeServiceApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmployeeRepositoryApi\InMemoryEmployee\InMemoryEmployee.csproj">
+      <Project>{71F0380C-1CDE-424F-8815-12FB81A593C5}</Project>
+      <Name>InMemoryEmployee</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmployeeRepositoryApi\InMemoryReservation\InMemoryReservation.csproj">
+      <Project>{7099AB22-7503-46AC-B3EE-6B30A2D43661}</Project>
+      <Name>InMemoryReservation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmployeeRepositoryApi\InMemoryRoom\InMemoryRoom.csproj">
+      <Project>{086C8554-F53C-469E-9730-1247D19B3F1E}</Project>
+      <Name>InMemoryRoom</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InternFOTH\InternFOTH.csproj">
+      <Project>{0273C97B-FDA1-45C7-9EE0-934ECD781A07}</Project>
+      <Name>InternFOTH</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RoomServiceApi\RoomServiceApi.csproj">
+      <Project>{1C842277-D9F1-4663-B00A-074143AD8111}</Project>
+      <Name>RoomServiceApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UIApi\UIApi.csproj">
+      <Project>{008559C4-057A-4EA8-8911-24A963E13573}</Project>
+      <Name>UIApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmployeeRepositoryApi\RoomRepositoryApi\RoomRepositoryApi.csproj">
+      <Project>{6B780DD1-0B6D-4196-9FB4-5DA342661B86}</Project>
+      <Name>RoomRepositoryApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RoomFacadeApi\RoomFacadeApi.csproj">
+      <Project>{6F7DBD06-FEC4-417E-9617-D76310C568C3}</Project>
+      <Name>RoomFacadeApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmployeeApi\RoomApi\RoomApi.csproj">
+      <Project>{2B4621FC-49B0-4CD7-8E5C-30CA21452AB2}</Project>
+      <Name>RoomApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReservationServiceApi\ReservationServiceApi.csproj">
+      <Project>{09C39BD4-465D-490B-B687-8AF96A03AF46}</Project>
+      <Name>ReservationServiceApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmployeeRepositoryApi\ReservationRepositoryApi\ReservationRepositoryApi.csproj">
+      <Project>{4E6A68B5-D9DF-49BE-9171-4C4C1FFCB4D1}</Project>
+      <Name>ReservationRepositoryApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReservationFacadeApi\ReservationFacadeApi.csproj">
+      <Project>{C47423E0-CF15-457F-8699-686C36E25C6F}</Project>
+      <Name>ReservationFacadeApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmployeeApi\ReservationApi\ReservationApi.csproj">
+      <Project>{1B47246D-D37B-44B4-B592-7964DBBAF158}</Project>
+      <Name>ReservationApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RoomServiceApi\RegularRoom\RegularRoom.csproj">
+      <Project>{A776324A-C1AA-43B4-8A4B-D72D378CD9FF}</Project>
+      <Name>RegularRoom</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RegularReservation\RegularReservation.csproj">
+      <Project>{13935F19-FC05-4CD5-9594-C110A374C26F}</Project>
+      <Name>RegularReservation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RegularManagementEmployee\RegularManagementEmployee.csproj">
+      <Project>{57362F82-302F-4D99-8200-DBE4AD0E1938}</Project>
+      <Name>RegularManagementEmployee</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RegularFOTH\RegularFOTH.csproj">
+      <Project>{E4DDB1DA-E19E-4BFC-B614-5E6524E11257}</Project>
+      <Name>RegularFOTH</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmployeeApi\NormalRoom\NormalRoom.csproj">
+      <Project>{85B72074-49F4-4EF6-A7D9-ADAA090C4128}</Project>
+      <Name>NormalRoom</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmployeeApi\NormalReservation\NormalReservation.csproj">
+      <Project>{17DB9A0B-5C9A-4357-8767-46D81EFE2F21}</Project>
+      <Name>NormalReservation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ManagementEmployeeServiceApi\ManagementEmployeeServiceApi.csproj">
+      <Project>{9E152638-4197-4B35-B8F4-1A3374E6CA37}</Project>
+      <Name>ManagementEmployeeServiceApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmployeeApi\ManagementEmployee\ManagementEmployee.csproj">
+      <Project>{2C369DF6-A351-4A20-A6E8-529F52C23E3B}</Project>
+      <Name>ManagementEmployee</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UIApi\ManagementConsole\ManagementConsole.csproj">
+      <Project>{29BFFA6B-B266-4711-B048-D3443FB46D17}</Project>
+      <Name>ManagementConsole</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GmailSender\GmailSender.csproj">
+      <Project>{4BAD9772-7E59-48C9-8CE9-D47ADD8AB77D}</Project>
+      <Name>GmailSender</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MailApi\MailApi.csproj">
+      <Project>{D266F40F-F1D2-42CA-8F7C-284EDAC1F2C3}</Project>
+      <Name>MailApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OutlookSender\OutlookSender.csproj">
+      <Project>{A6AE60A5-E85A-4F92-8702-5AD6CC72558A}</Project>
+      <Name>OutlookSender</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

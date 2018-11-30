@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{13935F19-FC05-4CD5-9594-C110A374C26F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>RegularReservation</RootNamespace>
+    <AssemblyName>RegularReservation</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegularReservationService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ReservationServiceApi\ReservationServiceApi.csproj">
+      <Project>{09C39BD4-465D-490B-B687-8AF96A03AF46}</Project>
+      <Name>ReservationServiceApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmployeeApi\ReservationApi\ReservationApi.csproj">
+      <Project>{1B47246D-D37B-44B4-B592-7964DBBAF158}</Project>
+      <Name>ReservationApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmployeeApi\RoomApi\RoomApi.csproj">
+      <Project>{2B4621FC-49B0-4CD7-8E5C-30CA21452AB2}</Project>
+      <Name>RoomApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmployeeRepositoryApi\RoomRepositoryApi\RoomRepositoryApi.csproj">
+      <Project>{6B780DD1-0B6D-4196-9FB4-5DA342661B86}</Project>
+      <Name>RoomRepositoryApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EmployeeRepositoryApi\ReservationRepositoryApi\ReservationRepositoryApi.csproj">
+      <Project>{4E6A68B5-D9DF-49BE-9171-4C4C1FFCB4D1}</Project>
+      <Name>ReservationRepositoryApi</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MailApi\MailApi.csproj">
+      <Project>{D266F40F-F1D2-42CA-8F7C-284EDAC1F2C3}</Project>
+      <Name>MailApi</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

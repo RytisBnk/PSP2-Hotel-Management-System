@@ -1,0 +1,5 @@
+/Users/rytis/Projects/Hotel/MailApi/bin/Debug/MailApi.dll
+/Users/rytis/Projects/Hotel/MailApi/bin/Debug/MailApi.pdb
+/Users/rytis/Projects/Hotel/MailApi/obj/Debug/MailApi.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/MailApi/obj/Debug/MailApi.dll
+/Users/rytis/Projects/Hotel/MailApi/obj/Debug/MailApi.pdb

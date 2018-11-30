@@ -1,0 +1,5 @@
+/Users/rytis/Projects/Hotel/EmployeeApi/RoomApi/bin/Debug/RoomApi.dll
+/Users/rytis/Projects/Hotel/EmployeeApi/RoomApi/bin/Debug/RoomApi.pdb
+/Users/rytis/Projects/Hotel/EmployeeApi/RoomApi/obj/Debug/RoomApi.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/EmployeeApi/RoomApi/obj/Debug/RoomApi.dll
+/Users/rytis/Projects/Hotel/EmployeeApi/RoomApi/obj/Debug/RoomApi.pdb

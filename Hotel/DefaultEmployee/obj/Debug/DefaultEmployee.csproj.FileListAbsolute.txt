@@ -1,0 +1,15 @@
+/Users/rytis/Projects/Hotel/DefaultEmployee/bin/Debug/DefaultEmployee.dll
+/Users/rytis/Projects/Hotel/DefaultEmployee/bin/Debug/DefaultEmployee.pdb
+/Users/rytis/Projects/Hotel/DefaultEmployee/bin/Debug/EmployeeApi.dll
+/Users/rytis/Projects/Hotel/DefaultEmployee/bin/Debug/EmployeeFacadeApi.dll
+/Users/rytis/Projects/Hotel/DefaultEmployee/bin/Debug/FOTHEmployeeServiceApi.dll
+/Users/rytis/Projects/Hotel/DefaultEmployee/bin/Debug/ManagementEmployeeServiceApi.dll
+/Users/rytis/Projects/Hotel/DefaultEmployee/bin/Debug/EmployeeFacadeApi.pdb
+/Users/rytis/Projects/Hotel/DefaultEmployee/bin/Debug/EmployeeApi.pdb
+/Users/rytis/Projects/Hotel/DefaultEmployee/bin/Debug/FOTHEmployeeServiceApi.pdb
+/Users/rytis/Projects/Hotel/DefaultEmployee/bin/Debug/ManagementEmployeeServiceApi.pdb
+/Users/rytis/Projects/Hotel/DefaultEmployee/obj/Debug/DefaultEmployee.csprojAssemblyReference.cache
+/Users/rytis/Projects/Hotel/DefaultEmployee/obj/Debug/DefaultEmployee.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/DefaultEmployee/obj/Debug/DefaultEmployee.csproj.CopyComplete
+/Users/rytis/Projects/Hotel/DefaultEmployee/obj/Debug/DefaultEmployee.dll
+/Users/rytis/Projects/Hotel/DefaultEmployee/obj/Debug/DefaultEmployee.pdb

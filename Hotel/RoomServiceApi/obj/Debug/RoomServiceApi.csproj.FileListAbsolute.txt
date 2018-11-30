@@ -1,0 +1,9 @@
+/Users/rytis/Projects/Hotel/RoomServiceApi/bin/Debug/RoomServiceApi.dll
+/Users/rytis/Projects/Hotel/RoomServiceApi/bin/Debug/RoomServiceApi.pdb
+/Users/rytis/Projects/Hotel/RoomServiceApi/bin/Debug/RoomApi.dll
+/Users/rytis/Projects/Hotel/RoomServiceApi/bin/Debug/RoomApi.pdb
+/Users/rytis/Projects/Hotel/RoomServiceApi/obj/Debug/RoomServiceApi.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/RoomServiceApi/obj/Debug/RoomServiceApi.csproj.CopyComplete
+/Users/rytis/Projects/Hotel/RoomServiceApi/obj/Debug/RoomServiceApi.dll
+/Users/rytis/Projects/Hotel/RoomServiceApi/obj/Debug/RoomServiceApi.pdb
+/Users/rytis/Projects/Hotel/RoomServiceApi/obj/Debug/RoomServiceApi.csprojAssemblyReference.cache

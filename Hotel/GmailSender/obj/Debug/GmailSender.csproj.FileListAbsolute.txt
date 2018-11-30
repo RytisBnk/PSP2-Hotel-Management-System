@@ -1,0 +1,9 @@
+/Users/rytis/Projects/Hotel/GmailSender/bin/Debug/GmailSender.dll
+/Users/rytis/Projects/Hotel/GmailSender/bin/Debug/GmailSender.pdb
+/Users/rytis/Projects/Hotel/GmailSender/bin/Debug/MailApi.dll
+/Users/rytis/Projects/Hotel/GmailSender/bin/Debug/MailApi.pdb
+/Users/rytis/Projects/Hotel/GmailSender/obj/Debug/GmailSender.csprojAssemblyReference.cache
+/Users/rytis/Projects/Hotel/GmailSender/obj/Debug/GmailSender.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/GmailSender/obj/Debug/GmailSender.csproj.CopyComplete
+/Users/rytis/Projects/Hotel/GmailSender/obj/Debug/GmailSender.dll
+/Users/rytis/Projects/Hotel/GmailSender/obj/Debug/GmailSender.pdb

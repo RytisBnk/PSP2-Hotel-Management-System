@@ -1,0 +1,11 @@
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryEmployee/bin/Debug/InMemoryEmployee.dll
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryEmployee/bin/Debug/InMemoryEmployee.pdb
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryEmployee/bin/Debug/EmployeeApi.dll
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryEmployee/bin/Debug/EmployeeRepositoryApi.dll
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryEmployee/bin/Debug/EmployeeRepositoryApi.pdb
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryEmployee/bin/Debug/EmployeeApi.pdb
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryEmployee/obj/Debug/InMemoryEmployee.csprojAssemblyReference.cache
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryEmployee/obj/Debug/InMemoryEmployee.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryEmployee/obj/Debug/InMemoryEmployee.csproj.CopyComplete
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryEmployee/obj/Debug/InMemoryEmployee.dll
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryEmployee/obj/Debug/InMemoryEmployee.pdb

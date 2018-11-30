@@ -1,0 +1,6 @@
+/Users/rytis/Projects/Hotel/UIApi/bin/Debug/UIApi.dll
+/Users/rytis/Projects/Hotel/UIApi/bin/Debug/UIApi.pdb
+/Users/rytis/Projects/Hotel/UIApi/obj/Debug/UIApi.csprojAssemblyReference.cache
+/Users/rytis/Projects/Hotel/UIApi/obj/Debug/UIApi.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/UIApi/obj/Debug/UIApi.dll
+/Users/rytis/Projects/Hotel/UIApi/obj/Debug/UIApi.pdb

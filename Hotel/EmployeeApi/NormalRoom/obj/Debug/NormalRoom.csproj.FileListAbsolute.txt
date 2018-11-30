@@ -1,0 +1,9 @@
+/Users/rytis/Projects/Hotel/EmployeeApi/NormalRoom/bin/Debug/NormalRoom.dll
+/Users/rytis/Projects/Hotel/EmployeeApi/NormalRoom/bin/Debug/NormalRoom.pdb
+/Users/rytis/Projects/Hotel/EmployeeApi/NormalRoom/bin/Debug/RoomApi.dll
+/Users/rytis/Projects/Hotel/EmployeeApi/NormalRoom/bin/Debug/RoomApi.pdb
+/Users/rytis/Projects/Hotel/EmployeeApi/NormalRoom/obj/Debug/NormalRoom.csprojAssemblyReference.cache
+/Users/rytis/Projects/Hotel/EmployeeApi/NormalRoom/obj/Debug/NormalRoom.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/EmployeeApi/NormalRoom/obj/Debug/NormalRoom.csproj.CopyComplete
+/Users/rytis/Projects/Hotel/EmployeeApi/NormalRoom/obj/Debug/NormalRoom.dll
+/Users/rytis/Projects/Hotel/EmployeeApi/NormalRoom/obj/Debug/NormalRoom.pdb

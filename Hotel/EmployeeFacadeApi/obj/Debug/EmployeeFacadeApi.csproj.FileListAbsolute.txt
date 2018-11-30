@@ -1,0 +1,9 @@
+/Users/rytis/Projects/Hotel/EmployeeFacadeApi/bin/Debug/EmployeeFacadeApi.dll
+/Users/rytis/Projects/Hotel/EmployeeFacadeApi/bin/Debug/EmployeeFacadeApi.pdb
+/Users/rytis/Projects/Hotel/EmployeeFacadeApi/bin/Debug/EmployeeApi.dll
+/Users/rytis/Projects/Hotel/EmployeeFacadeApi/bin/Debug/EmployeeApi.pdb
+/Users/rytis/Projects/Hotel/EmployeeFacadeApi/obj/Debug/EmployeeFacadeApi.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/EmployeeFacadeApi/obj/Debug/EmployeeFacadeApi.csproj.CopyComplete
+/Users/rytis/Projects/Hotel/EmployeeFacadeApi/obj/Debug/EmployeeFacadeApi.dll
+/Users/rytis/Projects/Hotel/EmployeeFacadeApi/obj/Debug/EmployeeFacadeApi.pdb
+/Users/rytis/Projects/Hotel/EmployeeFacadeApi/obj/Debug/EmployeeFacadeApi.csprojAssemblyReference.cache

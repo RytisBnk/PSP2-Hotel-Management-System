@@ -1,0 +1,13 @@
+/Users/rytis/Projects/Hotel/AdditionallyTaxedReservation/bin/Debug/AdditionallyTaxedReservation.dll
+/Users/rytis/Projects/Hotel/AdditionallyTaxedReservation/bin/Debug/AdditionallyTaxedReservation.pdb
+/Users/rytis/Projects/Hotel/AdditionallyTaxedReservation/bin/Debug/ReservationApi.dll
+/Users/rytis/Projects/Hotel/AdditionallyTaxedReservation/bin/Debug/ReservationFacadeApi.dll
+/Users/rytis/Projects/Hotel/AdditionallyTaxedReservation/bin/Debug/ReservationServiceApi.dll
+/Users/rytis/Projects/Hotel/AdditionallyTaxedReservation/bin/Debug/ReservationFacadeApi.pdb
+/Users/rytis/Projects/Hotel/AdditionallyTaxedReservation/bin/Debug/ReservationApi.pdb
+/Users/rytis/Projects/Hotel/AdditionallyTaxedReservation/bin/Debug/ReservationServiceApi.pdb
+/Users/rytis/Projects/Hotel/AdditionallyTaxedReservation/obj/Debug/AdditionallyTaxedReservation.csprojAssemblyReference.cache
+/Users/rytis/Projects/Hotel/AdditionallyTaxedReservation/obj/Debug/AdditionallyTaxedReservation.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/AdditionallyTaxedReservation/obj/Debug/AdditionallyTaxedReservation.csproj.CopyComplete
+/Users/rytis/Projects/Hotel/AdditionallyTaxedReservation/obj/Debug/AdditionallyTaxedReservation.dll
+/Users/rytis/Projects/Hotel/AdditionallyTaxedReservation/obj/Debug/AdditionallyTaxedReservation.pdb

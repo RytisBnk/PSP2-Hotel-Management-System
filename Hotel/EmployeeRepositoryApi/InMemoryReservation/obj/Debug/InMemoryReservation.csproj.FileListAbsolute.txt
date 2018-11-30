@@ -1,0 +1,11 @@
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryReservation/bin/Debug/InMemoryReservation.dll
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryReservation/bin/Debug/InMemoryReservation.pdb
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryReservation/bin/Debug/ReservationApi.dll
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryReservation/bin/Debug/ReservationRepositoryApi.dll
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryReservation/bin/Debug/ReservationApi.pdb
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryReservation/bin/Debug/ReservationRepositoryApi.pdb
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryReservation/obj/Debug/InMemoryReservation.csprojAssemblyReference.cache
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryReservation/obj/Debug/InMemoryReservation.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryReservation/obj/Debug/InMemoryReservation.csproj.CopyComplete
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryReservation/obj/Debug/InMemoryReservation.dll
+/Users/rytis/Projects/Hotel/EmployeeRepositoryApi/InMemoryReservation/obj/Debug/InMemoryReservation.pdb

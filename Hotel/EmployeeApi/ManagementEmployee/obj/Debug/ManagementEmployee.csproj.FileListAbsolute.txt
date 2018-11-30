@@ -1,0 +1,9 @@
+/Users/rytis/Projects/Hotel/EmployeeApi/ManagementEmployee/bin/Debug/ManagementEmployee.dll
+/Users/rytis/Projects/Hotel/EmployeeApi/ManagementEmployee/bin/Debug/ManagementEmployee.pdb
+/Users/rytis/Projects/Hotel/EmployeeApi/ManagementEmployee/bin/Debug/EmployeeApi.dll
+/Users/rytis/Projects/Hotel/EmployeeApi/ManagementEmployee/bin/Debug/EmployeeApi.pdb
+/Users/rytis/Projects/Hotel/EmployeeApi/ManagementEmployee/obj/Debug/ManagementEmployee.csprojAssemblyReference.cache
+/Users/rytis/Projects/Hotel/EmployeeApi/ManagementEmployee/obj/Debug/ManagementEmployee.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/EmployeeApi/ManagementEmployee/obj/Debug/ManagementEmployee.csproj.CopyComplete
+/Users/rytis/Projects/Hotel/EmployeeApi/ManagementEmployee/obj/Debug/ManagementEmployee.dll
+/Users/rytis/Projects/Hotel/EmployeeApi/ManagementEmployee/obj/Debug/ManagementEmployee.pdb

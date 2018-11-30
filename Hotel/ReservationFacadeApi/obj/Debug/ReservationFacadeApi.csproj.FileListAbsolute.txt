@@ -1,0 +1,9 @@
+/Users/rytis/Projects/Hotel/ReservationFacadeApi/bin/Debug/ReservationFacadeApi.dll
+/Users/rytis/Projects/Hotel/ReservationFacadeApi/bin/Debug/ReservationFacadeApi.pdb
+/Users/rytis/Projects/Hotel/ReservationFacadeApi/bin/Debug/ReservationApi.dll
+/Users/rytis/Projects/Hotel/ReservationFacadeApi/bin/Debug/ReservationApi.pdb
+/Users/rytis/Projects/Hotel/ReservationFacadeApi/obj/Debug/ReservationFacadeApi.csproj.CoreCompileInputs.cache
+/Users/rytis/Projects/Hotel/ReservationFacadeApi/obj/Debug/ReservationFacadeApi.csproj.CopyComplete
+/Users/rytis/Projects/Hotel/ReservationFacadeApi/obj/Debug/ReservationFacadeApi.dll
+/Users/rytis/Projects/Hotel/ReservationFacadeApi/obj/Debug/ReservationFacadeApi.pdb
+/Users/rytis/Projects/Hotel/ReservationFacadeApi/obj/Debug/ReservationFacadeApi.csprojAssemblyReference.cache
